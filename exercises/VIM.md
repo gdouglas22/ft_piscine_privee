@@ -31,7 +31,7 @@
 - `p` - paste a line
 
 ## Search
-- `:/hello` - Serach hello and hit enter
+- `:/hello` - Search hello and hit enter
 
 - `n` - move to Next match
 - `N` - move to Previous match
