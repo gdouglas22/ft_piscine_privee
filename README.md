@@ -6,4 +6,8 @@ Individual training program based on the tasks of the école 42
 
 ## Let's start  
 1. Install VirtualBox from [official site](https://link-url-here.org)  
-2. Then install Ubuntu x64 version 20.04 and older without GUI.  
+2. Then install Ubuntu x64 version 20.04 or older with GUI  
+3. You can find your tasks in folder /materials/tasks  
+4. Add all completed projects to the branch with your nickname to do it use `git checkout -b nickname`  
+
+## Good luck!
